@@ -2,7 +2,7 @@
 
 A research notebook investigating which NZX50 sectors have persistently outperformed the cross-sectional median from 2018 to 2026, and how those sectors respond to RBNZ OCR decisions.
 
-**Author:** Michael Dang · MBA Candidate, University of Auckland (Dec 2026)
+**Author:** Michael Dang · Master of Business Analytics, University of Auckland (Dec 2026)
 **Stack:** Python · pandas · yfinance · scipy · matplotlib
 
 ---
